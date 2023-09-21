@@ -1,4 +1,4 @@
-# Web Development Project 1 - _Name of App Here_
+# Web Development Project 1 - Community Board
 
 Submitted by: **Camila Castaneda**
 
